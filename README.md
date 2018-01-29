@@ -1,2 +1,2 @@
 # test_squash
-interesting test
+very interesting test
